@@ -1,0 +1,9 @@
+.navigation-bar {
+    background: #a81f00;
+} 
+
+.navigation-bar ul li a {
+    color:#fff;
+    font-weight: bold;
+    font-size: 16px;
+}
